@@ -1,3 +1,4 @@
 # ProjectAssignment
 
-Hello everyone my name is mohamed ghalloum and this is my final peer graded assignment 
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years
